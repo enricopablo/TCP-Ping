@@ -19,17 +19,28 @@ Uma ferramenta de linha de comando (CLI) robusta para testar a conectividade de 
 
 ## 🛠️ Pré-requisitos
 
-O único requisito é o **uv** (gerenciador de pacotes Python ultra-rápido).
+O único requisito é o `uv` (gerenciador de pacotes Python ultra-rápido).
 
 **macOS / Linux:**
 ```bash
 curl -LsSf [https://astral.sh/uv/install.sh](https://astral.sh/uv/install.sh) | sh
+```
+Ou via `pip`:
+
+```bash
+pip install uv
 ```
 
 **Windows (PowerShell):**
 
 ```bash
 powershell -c "iwr [https://astral.sh/uv/install.ps1](https://astral.sh/uv/install.ps1) | iex"
+```
+
+Ou via `pip`:
+
+```bash
+pip install uv
 ```
 
 ## 🚀 Como Executar
