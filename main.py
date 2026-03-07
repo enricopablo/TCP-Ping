@@ -99,7 +99,7 @@ def print_summary(console_list, success_count, fail_count, latencies, start_run)
     help="Arquivo de log (Padrão: tcp_ping_HOST_PORTA.log).",
 )  # Mudado para None
 def main(host, port, count, interval, timeout, output):
-    """TCP PING TOOL - Utilitário de teste de conectividade."""
+    """TCP PING TOOL - Utilitário de Teste de Conectividade TCP."""
 
     # 1. Caminho base do script
     script_dir = os.path.dirname(os.path.abspath(__file__))
