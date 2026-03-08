@@ -6,6 +6,9 @@ Uma ferramenta de linha de comando (CLI) robusta para testar a conectividade de 
 ![UV](https://img.shields.io/badge/Managed%20by-UV-purple?logo=python)
 ![OS](https://img.shields.io/badge/OS-macOS%20%7C%20Linux%20%7C%20Windows-lightgrey)
 
+<img width="910" height="586" alt="tcp-ping-print" src="https://github.com/user-attachments/assets/0dbde8fe-c0be-4be3-83f1-1a989bcb04cf" />
+
+
 ## ✨ Funcionalidades
 
 * **Handshake TCP:** Mede o tempo de resposta real da aplicação (SYN/SYN-ACK).
