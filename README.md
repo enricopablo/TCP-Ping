@@ -48,6 +48,14 @@ pip install uv
 
 ## 🚀 Como Executar
 
+Clonar o repositório:
+
+```bash
+git clone https://github.com/enricopablo/TCP-Ping.git
+cd TCP-Ping/
+uv sync
+```
+
 O `uv` gerencia as dependências automaticamente a partir do cabeçalho do script.
 
 ```bash
